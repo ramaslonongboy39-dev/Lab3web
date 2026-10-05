@@ -6,7 +6,7 @@ Pada langkah pertama dibuat struktur dasar HTML yang terdiri dari header, naviga
 
 ### Screenshot
 
-![Langkah 1 - Membuat Dokumen HTML]!(<Screenshot 2026-10-05 110731.png>)
+![Langkah 1 - Membuat Dokumen HTML](<Screenshot 2026-10-05 110731.png>)
 
 ---
 
@@ -16,7 +16,7 @@ Selanjutnya ditambahkan CSS Internal menggunakan tag `<style>` pada bagian `<hea
 
 ### Screenshot
 
-![Langkah 2 - CSS Internal]!(<Screenshot 2026-10-05 111029.png>)
+![Langkah 2 - CSS Internal](<Screenshot 2026-10-05 111029.png>)
 ---
 
 ### 3. Menambahkan Inline CSS
@@ -25,7 +25,7 @@ Pada langkah ini ditambahkan Inline CSS secara langsung pada elemen `<p>` menggu
 
 ### Screenshot
 
-![Langkah 3 - Inline CSS]!(<Screenshot 2026-10-05 111620.png>)
+![Langkah 3 - Inline CSS](<Screenshot 2026-10-05 111620.png>)
 
 ---
 
@@ -35,7 +35,7 @@ Selanjutnya dibuat file `style_eksternal.css` dan dihubungkan dengan file HTML m
 
 ### Screenshot
 
-![Langkah 4 - CSS Eksternal]!(<Screenshot 2026-10-05 112427.png>)
+![Langkah 4 - CSS Eksternal](<Screenshot 2026-10-05 112427.png>)
 
 ---
 
@@ -45,7 +45,7 @@ Pada langkah terakhir digunakan beberapa selector CSS, yaitu Element Selector, I
 
 ### Screenshot
 
-![Langkah 5 - CSS Selector]!(<Screenshot 2026-10-05 113211.png>)
+![Langkah 5 - CSS Selector](<Screenshot 2026-10-05 113211.png>)
 
 ---
 
@@ -53,7 +53,7 @@ Pada langkah terakhir digunakan beberapa selector CSS, yaitu Element Selector, I
 
 Berikut adalah hasil akhir dari praktikum CSS Dasar.
 
-![Hasil Akhir]!(<Screenshot 2026-10-05 113918.png>)
+![Hasil Akhir](<Screenshot 2026-10-05 113918.png>)
 
 ## Kesimpulan
 
