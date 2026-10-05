@@ -53,7 +53,7 @@ Pada langkah terakhir digunakan beberapa selector CSS, yaitu Element Selector, I
 
 Berikut adalah hasil akhir dari praktikum CSS Dasar.
 
-![Hasil Akhir])!(<Screenshot 2026-10-05 113918.png>)
+![Hasil Akhir]!(<Screenshot 2026-10-05 113918.png>)
 
 ## Kesimpulan
 
