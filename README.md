@@ -10,7 +10,7 @@ Pada langkah pertama dibuat struktur dasar HTML yang terdiri dari header, naviga
 
 ---
 
-### 2. Menambahkan CSS Internal
+### 2. Menambahkan CSS Internal 
 
 Selanjutnya ditambahkan CSS Internal menggunakan tag `<style>` pada bagian `<head>`. CSS digunakan untuk mengatur font, header, heading, warna, dan posisi teks.
 
